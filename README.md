@@ -2,6 +2,6 @@
 Candy Forest
 
 
-Un juego súper adictivo en el que tienes que golpear la bola con cuidado para atravesar los obstáculos. ¡Para cruzar un obstáculo tu bola debe tener el mismo color! Tenga cuidado de no pasar por el color equivocado, o tendrás que empezar de nuevo.
+Bienvenido a Candy Forest, en el que debes combinar 3 o más caramelos del mismo color y forma para eliminarlos y ganar puntos. Se ven tan lindos y suaves, ¿puedes alcanzar el objetivo en cada nivel antes de que se acabe el tiempo? Únete al juego de match 3 y diviértete.
 
- A super-addicting game where you have to tap the ball carefully to go through obstacles. To cross an obstacle your ball must have the same color! Be careful not to pass through the wrong color, or you’ll have to start again.
+ Welcome to Candy Forest in which you have to combine 3 or more candies of the same color and shape together to remove them and gain points. They look so cute and soft, can you reach the target each level before time is up? Join the match 3 game and have fun. 
